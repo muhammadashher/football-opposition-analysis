@@ -1,0 +1,35 @@
+match,period,clip_start,minute,second,category,player,play_pattern_name,start_s,end_s
+Spain vs Croatia,1,00:01:48,1,48,High regain,Nico Williams,From Throw In,100,114
+Spain vs Croatia,1,00:04:08,4,8,High regain,Pedri,Regular Play,240,254
+Spain vs Croatia,1,00:04:31,4,31,High regain,Rodri,Regular Play,263,277
+Spain vs Croatia,1,00:06:23,6,23,Shot,Álvaro Morata,Regular Play,375,389
+Spain vs Croatia,1,00:08:36,8,36,High regain,Marc Cucurella,From Throw In,508,522
+Spain vs Croatia,1,00:14:12,14,12,Shot,Lamine Yamal,Regular Play,844,858
+Spain vs Croatia,1,00:23:40,23,40,High regain,Robin Le Normand,From Free Kick,1412,1426
+Spain vs Croatia,1,00:25:34,25,34,Box entry (pass),Nico Williams,Regular Play,1526,1540
+Spain vs Croatia,1,00:28:08,28,8,Goal,Álvaro Morata,Regular Play,1680,1694
+Spain vs Croatia,1,00:31:14,31,14,High regain,Lamine Yamal,From Throw In,1866,1880
+Spain vs Croatia,1,00:31:24,31,24,Goal,Fabián Ruiz,From Throw In,1876,1890
+Spain vs Croatia,1,00:35:09,35,9,Corner,Nico Williams,From Corner,2101,2115
+Spain vs Croatia,1,00:35:11,35,11,Shot,Robin Le Normand,From Corner,2103,2117
+Spain vs Croatia,1,00:36:34,36,34,Box entry (pass),Álvaro Morata,From Throw In,2186,2200
+Spain vs Croatia,1,00:42:10,42,10,High regain,Álvaro Morata,Regular Play,2522,2536
+Spain vs Croatia,1,00:42:12,42,12,High regain,Daniel Carvajal,Regular Play,2524,2538
+Spain vs Croatia,1,00:46:47,46,47,Corner,Lamine Yamal,From Corner,2799,2813
+Spain vs Croatia,1,00:46:53,46,53,Box entry (pass),Lamine Yamal,From Corner,2805,2819
+Spain vs Croatia,1,00:46:54,46,54,Goal,Daniel Carvajal,From Corner,2806,2820
+Spain vs Croatia,2,00:02:06,47,6,Box entry (pass),Marc Cucurella,Regular Play,118,132
+Spain vs Croatia,2,00:06:42,51,42,High regain,Pedri,Regular Play,394,408
+Spain vs Croatia,2,00:06:44,51,44,Box entry (pass),Pedri,Regular Play,396,410
+Spain vs Croatia,2,00:06:45,51,45,Shot,Lamine Yamal,Regular Play,397,411
+Spain vs Croatia,2,00:06:50,51,50,High regain,Marc Cucurella,Regular Play,402,416
+Spain vs Croatia,2,00:07:55,52,55,Corner,Nico Williams,From Corner,467,481
+Spain vs Croatia,2,00:08:01,53,1,Shot,Álvaro Morata,From Corner,473,487
+Spain vs Croatia,2,00:12:18,57,18,Shot,Lamine Yamal,From Free Kick,730,744
+Spain vs Croatia,2,00:23:43,68,43,High regain,Marc Cucurella,From Throw In,1415,1429
+Spain vs Croatia,2,00:28:13,73,13,Shot,Daniel Olmo,Regular Play,1685,1699
+Spain vs Croatia,2,00:42:53,87,53,Shot,Ferrán Torres,Regular Play,2565,2579
+Spain vs Croatia,2,00:43:33,88,33,Corner,Ferrán Torres,From Corner,2605,2619
+Spain vs Croatia,2,00:47:35,92,35,Box entry (pass),Daniel Olmo,From Goal Kick,2847,2861
+Spain vs Croatia,2,00:47:57,92,57,Corner,Ferrán Torres,From Corner,2869,2883
+Spain vs Croatia,2,00:48:07,93,7,Box entry (pass),Fabián Ruiz,From Corner,2879,2893

@@ -1,0 +1,49 @@
+match,period,clip_start,minute,second,category,player,play_pattern_name,start_s,end_s
+Spain vs Germany,1,00:00:50,0,50,Box entry (pass),Nico Williams,Regular Play,42,56
+Spain vs Germany,1,00:00:52,0,52,Shot,Pedri,Regular Play,44,58
+Spain vs Germany,1,00:11:45,11,45,Shot,Nico Williams,From Throw In,697,711
+Spain vs Germany,1,00:14:05,14,5,Shot,Lamine Yamal,From Free Kick,837,851
+Spain vs Germany,1,00:15:02,15,2,Shot,Álvaro Morata,Regular Play,894,908
+Spain vs Germany,1,00:15:22,15,22,High regain,Lamine Yamal,Regular Play,914,928
+Spain vs Germany,1,00:15:26,15,26,High regain,Lamine Yamal,Regular Play,918,932
+Spain vs Germany,1,00:16:08,16,8,Shot,Fabián Ruiz,Regular Play,960,974
+Spain vs Germany,1,00:21:49,21,49,High regain,Rodri,Regular Play,1301,1315
+Spain vs Germany,1,00:22:09,22,9,Shot,Aymeric Laporte,Regular Play,1321,1335
+Spain vs Germany,1,00:27:03,27,3,High regain,Daniel Carvajal,Regular Play,1615,1629
+Spain vs Germany,1,00:28:06,28,6,High regain,Daniel Olmo,From Free Kick,1678,1692
+Spain vs Germany,1,00:38:47,38,47,Shot,Daniel Olmo,From Throw In,2319,2333
+Spain vs Germany,1,00:38:50,38,50,High regain,Álvaro Morata,From Throw In,2322,2336
+Spain vs Germany,1,00:44:15,44,15,Box entry (pass),Álvaro Morata,Regular Play,2647,2661
+Spain vs Germany,1,00:44:51,44,51,Shot,Lamine Yamal,Regular Play,2683,2697
+Spain vs Germany,1,00:46:09,46,9,High regain,Rodri,Regular Play,2761,2775
+Spain vs Germany,2,00:01:40,46,40,Box entry (pass),Daniel Olmo,From Free Kick,92,106
+Spain vs Germany,2,00:01:48,46,48,Shot,Álvaro Morata,From Free Kick,100,114
+Spain vs Germany,2,00:06:00,51,0,Goal,Daniel Olmo,From Free Kick,352,366
+Spain vs Germany,2,00:09:49,54,49,High regain,Nico Williams,Regular Play,581,595
+Spain vs Germany,2,00:09:53,54,53,Shot,Nico Williams,Regular Play,585,599
+Spain vs Germany,2,00:09:53,54,53,High regain,Nico Williams,Regular Play,585,599
+Spain vs Germany,2,00:12:49,57,49,High regain,Rodri,Regular Play,761,775
+Spain vs Germany,2,00:12:50,57,50,High regain,Fabián Ruiz,Regular Play,762,776
+Spain vs Germany,2,00:13:12,58,12,High regain,Daniel Olmo,Regular Play,784,798
+Spain vs Germany,2,00:22:20,67,20,Box entry (pass),Fabián Ruiz,From Free Kick,1332,1346
+Spain vs Germany,2,00:28:41,73,41,Box entry (pass),Ferrán Torres,From Free Kick,1713,1727
+Spain vs Germany,2,00:35:00,80,0,Box entry (pass),Fabián Ruiz,From Throw In,2092,2106
+Spain vs Germany,2,00:35:05,80,5,High regain,Mikel Merino,From Throw In,2097,2111
+Spain vs Germany,2,00:38:31,83,31,Shot,Fabián Ruiz,From Free Kick,2303,2317
+Spain vs Germany,2,00:46:27,91,27,High regain,Mikel Merino,Regular Play,2779,2793
+Spain vs Germany,3,00:00:23,90,23,Box entry (pass),Daniel Olmo,From Kick Off,15,29
+Spain vs Germany,3,00:00:24,90,24,Shot,Ferrán Torres,From Kick Off,16,30
+Spain vs Germany,3,00:04:31,94,31,Shot,Mikel Oyarzabal,From Counter,263,277
+Spain vs Germany,3,00:05:45,95,45,Box entry (pass),Ferrán Torres,From Free Kick,337,351
+Spain vs Germany,3,00:05:52,95,52,High regain,Fabián Ruiz,From Free Kick,344,358
+Spain vs Germany,3,00:06:08,96,8,Shot,Daniel Olmo,From Free Kick,360,374
+Spain vs Germany,3,00:06:10,96,10,High regain,Rodri,From Free Kick,362,376
+Spain vs Germany,3,00:13:07,103,7,Shot,Mikel Oyarzabal,From Throw In,779,793
+Spain vs Germany,4,00:02:46,107,46,Corner,Ferrán Torres,From Corner,158,172
+Spain vs Germany,4,00:06:50,111,50,Shot,Mikel Oyarzabal,Regular Play,402,416
+Spain vs Germany,4,00:09:33,114,33,High regain,Daniel Olmo,Regular Play,565,579
+Spain vs Germany,4,00:13:39,118,39,High regain,Mikel Oyarzabal,From Throw In,811,825
+Spain vs Germany,4,00:13:44,118,44,High regain,Daniel Carvajal,From Throw In,816,830
+Spain vs Germany,4,00:13:52,118,52,Box entry (pass),Daniel Olmo,From Throw In,824,838
+Spain vs Germany,4,00:13:53,118,53,Goal,Mikel Merino,From Throw In,825,839
+Spain vs Germany,4,00:16:55,121,55,Shot,Ferrán Torres,From Counter,1007,1021

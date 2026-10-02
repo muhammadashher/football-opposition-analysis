@@ -1,0 +1,33 @@
+match,period,clip_start,minute,second,category,player,play_pattern_name,start_s,end_s
+Spain vs France,1,00:04:41,4,41,High regain,Nico Williams,Regular Play,273,287
+Spain vs France,1,00:04:43,4,43,Box entry (pass),Nico Williams,Regular Play,275,289
+Spain vs France,1,00:04:49,4,49,Shot,Fabián Ruiz,Regular Play,281,295
+Spain vs France,1,00:10:21,10,21,High regain,Rodri,Regular Play,613,627
+Spain vs France,1,00:10:46,10,46,Box entry (pass),Lamine Yamal,Regular Play,638,652
+Spain vs France,1,00:10:49,10,49,High regain,Daniel Olmo,Regular Play,641,655
+Spain vs France,1,00:11:46,11,46,Box entry (pass),Nico Williams,Regular Play,698,712
+Spain vs France,1,00:20:12,20,12,High regain,Lamine Yamal,From Goal Kick,1204,1218
+Spain vs France,1,00:20:15,20,15,Goal,Lamine Yamal,From Goal Kick,1207,1221
+Spain vs France,1,00:22:39,22,39,Corner,Nico Williams,From Corner,1351,1365
+Spain vs France,1,00:23:18,23,18,High regain,Lamine Yamal,Regular Play,1390,1404
+Spain vs France,1,00:23:26,23,26,High regain,Rodri,Regular Play,1398,1412
+Spain vs France,1,00:24:21,24,21,High regain,Daniel Olmo,From Throw In,1453,1467
+Spain vs France,1,00:24:23,24,23,Goal,Daniel Olmo,From Throw In,1455,1469
+Spain vs France,1,00:29:56,29,56,High regain,Daniel Olmo,From Goal Kick,1788,1802
+Spain vs France,1,00:30:46,30,46,High regain,Nico Williams,From Goal Kick,1838,1852
+Spain vs France,1,00:35:35,35,35,Shot,Fabián Ruiz,From Free Kick,2127,2141
+Spain vs France,1,00:36:26,36,26,Corner,Nico Williams,From Corner,2178,2192
+Spain vs France,1,00:39:59,39,59,Shot,Lamine Yamal,Regular Play,2391,2405
+Spain vs France,1,00:40:41,40,41,Corner,Nico Williams,From Corner,2433,2447
+Spain vs France,1,00:44:44,44,44,High regain,Nico Williams,From Throw In,2676,2690
+Spain vs France,2,00:03:46,48,46,High regain,Nico Williams,From Throw In,218,232
+Spain vs France,2,00:18:04,63,4,High regain,Nico Williams,Regular Play,1076,1090
+Spain vs France,2,00:24:28,69,28,Box entry (pass),Nico Williams,From Throw In,1460,1474
+Spain vs France,2,00:32:27,77,27,High regain,Mikel Merino,From Goal Kick,1939,1953
+Spain vs France,2,00:35:56,80,56,Shot,Lamine Yamal,Regular Play,2148,2162
+Spain vs France,2,00:44:16,89,16,High regain,Nico Williams,From Free Kick,2648,2662
+Spain vs France,2,00:44:18,89,18,High regain,Rodri,From Free Kick,2650,2664
+Spain vs France,2,00:44:27,89,27,Box entry (pass),Mikel Oyarzabal,From Free Kick,2659,2673
+Spain vs France,2,00:45:01,90,1,Corner,Nico Williams,From Corner,2693,2707
+Spain vs France,2,00:45:04,90,4,High regain,Fabián Ruiz,From Corner,2696,2710
+Spain vs France,2,00:50:19,95,19,High regain,Mikel Merino,From Goal Kick,3011,3025

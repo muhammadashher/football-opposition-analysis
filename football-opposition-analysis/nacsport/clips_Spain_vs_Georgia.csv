@@ -1,0 +1,96 @@
+match,period,clip_start,minute,second,category,player,play_pattern_name,start_s,end_s
+Spain vs Georgia,1,00:00:50,0,50,High regain,Álvaro Morata,From Kick Off,42,56
+Spain vs Georgia,1,00:01:47,1,47,High regain,Fabián Ruiz,Regular Play,99,113
+Spain vs Georgia,1,00:01:49,1,49,Shot,Fabián Ruiz,Regular Play,101,115
+Spain vs Georgia,1,00:04:03,4,3,Box entry (pass),Daniel Carvajal,Regular Play,235,249
+Spain vs Georgia,1,00:04:04,4,4,Shot,Pedri,Regular Play,236,250
+Spain vs Georgia,1,00:05:06,5,6,High regain,Daniel Carvajal,Regular Play,298,312
+Spain vs Georgia,1,00:05:17,5,17,Box entry (pass),Fabián Ruiz,Regular Play,309,323
+Spain vs Georgia,1,00:05:21,5,21,Shot,Fabián Ruiz,Regular Play,313,327
+Spain vs Georgia,1,00:05:45,5,45,High regain,Marc Cucurella,Regular Play,337,351
+Spain vs Georgia,1,00:07:39,7,39,Box entry (pass),Nico Williams,From Free Kick,451,465
+Spain vs Georgia,1,00:08:07,8,7,Corner,Nico Williams,From Corner,479,493
+Spain vs Georgia,1,00:08:41,8,41,High regain,Lamine Yamal,From Corner,513,527
+Spain vs Georgia,1,00:09:31,9,31,Box entry (pass),Marc Cucurella,From Corner,563,577
+Spain vs Georgia,1,00:09:56,9,56,Corner,Nico Williams,From Corner,588,602
+Spain vs Georgia,1,00:09:57,9,57,Shot,Daniel Carvajal,From Corner,589,603
+Spain vs Georgia,1,00:10:11,10,11,Corner,Nico Williams,From Corner,603,617
+Spain vs Georgia,1,00:10:44,10,44,Box entry (pass),Fabián Ruiz,From Throw In,636,650
+Spain vs Georgia,1,00:10:49,10,49,High regain,Fabián Ruiz,From Throw In,641,655
+Spain vs Georgia,1,00:10:55,10,55,Box entry (pass),Lamine Yamal,From Throw In,647,661
+Spain vs Georgia,1,00:10:59,10,59,Shot,Nico Williams,From Throw In,651,665
+Spain vs Georgia,1,00:11:12,11,12,Corner,Lamine Yamal,From Corner,664,678
+Spain vs Georgia,1,00:12:38,12,38,Box entry (pass),Lamine Yamal,From Corner,750,764
+Spain vs Georgia,1,00:12:40,12,40,Shot,Fabián Ruiz,From Corner,752,766
+Spain vs Georgia,1,00:12:41,12,41,High regain,Rodri,From Corner,753,767
+Spain vs Georgia,1,00:12:46,12,46,Box entry (pass),Marc Cucurella,From Corner,758,772
+Spain vs Georgia,1,00:12:48,12,48,Shot,Nico Williams,From Corner,760,774
+Spain vs Georgia,1,00:13:12,13,12,Corner,Nico Williams,From Corner,784,798
+Spain vs Georgia,1,00:15:39,15,39,Corner,Lamine Yamal,From Corner,931,945
+Spain vs Georgia,1,00:15:41,15,41,Shot,Aymeric Laporte,From Corner,933,947
+Spain vs Georgia,1,00:19:30,19,30,Box entry (pass),Nico Williams,Regular Play,1162,1176
+Spain vs Georgia,1,00:19:36,19,36,High regain,Daniel Carvajal,Regular Play,1168,1182
+Spain vs Georgia,1,00:20:22,20,22,High regain,Pedri,Regular Play,1214,1228
+Spain vs Georgia,1,00:21:14,21,14,Box entry (pass),Rodri,Regular Play,1266,1280
+Spain vs Georgia,1,00:21:16,21,16,Shot,Fabián Ruiz,Regular Play,1268,1282
+Spain vs Georgia,1,00:22:45,22,45,Box entry (pass),Fabián Ruiz,Regular Play,1357,1371
+Spain vs Georgia,1,00:24:22,24,22,High regain,Lamine Yamal,Regular Play,1454,1468
+Spain vs Georgia,1,00:24:26,24,26,High regain,Lamine Yamal,Regular Play,1458,1472
+Spain vs Georgia,1,00:24:39,24,39,High regain,Pedri,From Throw In,1471,1485
+Spain vs Georgia,1,00:25:15,25,15,Shot,Rodri,From Throw In,1507,1521
+Spain vs Georgia,1,00:26:36,26,36,High regain,Pedri,Regular Play,1588,1602
+Spain vs Georgia,1,00:26:37,26,37,Shot,Pedri,Regular Play,1589,1603
+Spain vs Georgia,1,00:27:28,27,28,High regain,Fabián Ruiz,Regular Play,1640,1654
+Spain vs Georgia,1,00:28:38,28,38,Shot,Aymeric Laporte,From Throw In,1710,1724
+Spain vs Georgia,1,00:30:19,30,19,Shot,Lamine Yamal,Regular Play,1811,1825
+Spain vs Georgia,1,00:30:21,30,21,High regain,Daniel Carvajal,Regular Play,1813,1827
+Spain vs Georgia,1,00:30:36,30,36,Box entry (pass),Aymeric Laporte,Regular Play,1828,1842
+Spain vs Georgia,1,00:32:53,32,53,High regain,Pedri,Regular Play,1965,1979
+Spain vs Georgia,1,00:34:36,34,36,Shot,Marc Cucurella,From Goal Kick,2068,2082
+Spain vs Georgia,1,00:35:21,35,21,Corner,Lamine Yamal,From Corner,2113,2127
+Spain vs Georgia,1,00:37:44,37,44,Box entry (pass),Pedri,Regular Play,2256,2270
+Spain vs Georgia,1,00:37:48,37,48,Shot,Nico Williams,Regular Play,2260,2274
+Spain vs Georgia,1,00:38:04,38,4,Box entry (pass),Rodri,Regular Play,2276,2290
+Spain vs Georgia,1,00:38:10,38,10,Goal,Rodri,Regular Play,2282,2296
+Spain vs Georgia,1,00:42:44,42,44,High regain,Marc Cucurella,Regular Play,2556,2570
+Spain vs Georgia,1,00:46:07,46,7,Shot,Lamine Yamal,From Throw In,2759,2773
+Spain vs Georgia,1,00:46:08,46,8,High regain,Robin Le Normand,From Throw In,2760,2774
+Spain vs Georgia,1,00:46:22,46,22,High regain,Nico Williams,From Throw In,2774,2788
+Spain vs Georgia,1,00:46:43,46,43,Box entry (pass),Lamine Yamal,From Throw In,2795,2809
+Spain vs Georgia,1,00:47:08,47,8,Corner,Lamine Yamal,From Corner,2820,2834
+Spain vs Georgia,1,00:47:29,47,29,Corner,Nico Williams,From Corner,2841,2855
+Spain vs Georgia,2,00:00:21,45,21,Shot,Fabián Ruiz,From Counter,13,27
+Spain vs Georgia,2,00:05:25,50,25,Shot,Lamine Yamal,From Free Kick,317,331
+Spain vs Georgia,2,00:05:29,50,29,High regain,Álvaro Morata,From Free Kick,321,335
+Spain vs Georgia,2,00:05:38,50,38,Box entry (pass),Lamine Yamal,From Free Kick,330,344
+Spain vs Georgia,2,00:05:40,50,40,Goal,Fabián Ruiz,From Free Kick,332,346
+Spain vs Georgia,2,00:07:09,52,9,High regain,Daniel Olmo,Regular Play,421,435
+Spain vs Georgia,2,00:07:13,52,13,Shot,Lamine Yamal,Regular Play,425,439
+Spain vs Georgia,2,00:08:57,53,57,High regain,Fabián Ruiz,Regular Play,529,543
+Spain vs Georgia,2,00:09:38,54,38,Shot,Álvaro Morata,Regular Play,570,584
+Spain vs Georgia,2,00:13:57,58,57,Corner,Lamine Yamal,From Corner,829,843
+Spain vs Georgia,2,00:14:03,59,3,Shot,Daniel Olmo,From Corner,835,849
+Spain vs Georgia,2,00:15:53,60,53,Shot,Daniel Olmo,Regular Play,945,959
+Spain vs Georgia,2,00:17:18,62,18,High regain,Lamine Yamal,Regular Play,1030,1044
+Spain vs Georgia,2,00:17:19,62,19,Shot,Lamine Yamal,Regular Play,1031,1045
+Spain vs Georgia,2,00:19:41,64,41,Corner,Nico Williams,From Corner,1173,1187
+Spain vs Georgia,2,00:20:06,65,6,Corner,Nico Williams,From Corner,1198,1212
+Spain vs Georgia,2,00:24:09,69,9,Shot,Fabián Ruiz,From Goal Kick,1441,1455
+Spain vs Georgia,2,00:28:08,73,8,Box entry (pass),Lamine Yamal,Regular Play,1680,1694
+Spain vs Georgia,2,00:29:40,74,40,Goal,Nico Williams,From Counter,1772,1786
+Spain vs Georgia,2,00:31:59,76,59,Shot,Daniel Olmo,Regular Play,1911,1925
+Spain vs Georgia,2,00:34:56,79,56,Box entry (pass),Daniel Olmo,From Keeper,2088,2102
+Spain vs Georgia,2,00:34:58,79,58,Shot,Lamine Yamal,From Keeper,2090,2104
+Spain vs Georgia,2,00:35:59,80,59,Corner,Álex Grimaldo,From Corner,2151,2165
+Spain vs Georgia,2,00:36:54,81,54,Box entry (pass),Daniel Olmo,Regular Play,2206,2220
+Spain vs Georgia,2,00:36:57,81,57,Shot,Lamine Yamal,Regular Play,2209,2223
+Spain vs Georgia,2,00:37:35,82,35,Goal,Daniel Olmo,Regular Play,2247,2261
+Spain vs Georgia,2,00:44:17,89,17,Shot,Nico Williams,From Keeper,2649,2663
+Spain vs Georgia,2,00:44:19,89,19,High regain,Lamine Yamal,From Keeper,2651,2665
+Spain vs Georgia,2,00:44:38,89,38,Shot,Daniel Olmo,From Keeper,2670,2684
+Spain vs Georgia,2,00:46:14,91,14,Box entry (pass),Mikel Merino,Regular Play,2766,2780
+Spain vs Georgia,2,00:46:20,91,20,Shot,Daniel Olmo,Regular Play,2772,2786
+Spain vs Georgia,2,00:46:25,91,25,High regain,Lamine Yamal,Regular Play,2777,2791
+Spain vs Georgia,2,00:47:15,92,15,High regain,Álex Grimaldo,From Free Kick,2827,2841
+Spain vs Georgia,2,00:47:17,92,17,Box entry (pass),Álex Grimaldo,From Free Kick,2829,2843
+Spain vs Georgia,2,00:47:19,92,19,Shot,Rodri,From Free Kick,2831,2845

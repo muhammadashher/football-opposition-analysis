@@ -1,0 +1,370 @@
+match,period,clip_start,minute,second,category,player,play_pattern_name
+Spain vs Albania,1,00:02:44,2,44,High regain,Martín Zubimendi,Regular Play
+Spain vs Albania,1,00:11:05,11,5,High regain,Jesús Navas,Regular Play
+Spain vs Albania,1,00:11:08,11,8,Box entry (pass),Jesús Navas,Regular Play
+Spain vs Albania,1,00:11:10,11,10,Shot,Mikel Merino,Regular Play
+Spain vs Albania,1,00:11:22,11,22,Corner,Álex Grimaldo,From Corner
+Spain vs Albania,1,00:11:27,11,27,Box entry (pass),Aymeric Laporte,From Corner
+Spain vs Albania,1,00:11:28,11,28,Shot,Joselu,From Corner
+Spain vs Albania,1,00:12:30,12,30,Box entry (pass),Daniel Olmo,Regular Play
+Spain vs Albania,1,00:12:32,12,32,Goal,Ferrán Torres,Regular Play
+Spain vs Albania,1,00:18:38,18,38,High regain,Álex Grimaldo,Regular Play
+Spain vs Albania,1,00:20:55,20,55,Shot,Daniel Olmo,Regular Play
+Spain vs Albania,1,00:22:10,22,10,High regain,Mikel Merino,Regular Play
+Spain vs Albania,1,00:25:22,25,22,Corner,Álex Grimaldo,From Corner
+Spain vs Albania,1,00:25:24,25,24,Shot,Dani Vivian,From Corner
+Spain vs Albania,1,00:25:30,25,30,High regain,Martín Zubimendi,From Corner
+Spain vs Albania,1,00:32:40,32,40,High regain,Mikel Oyarzabal,From Throw In
+Spain vs Albania,1,00:33:45,33,45,Box entry (pass),Daniel Olmo,Regular Play
+Spain vs Albania,1,00:34:24,34,24,Corner,Ferrán Torres,From Corner
+Spain vs Albania,1,00:35:31,35,31,High regain,Jesús Navas,From Corner
+Spain vs Albania,1,00:35:33,35,33,Box entry (pass),Jesús Navas,From Corner
+Spain vs Albania,1,00:35:34,35,34,Shot,Daniel Olmo,From Corner
+Spain vs Albania,1,00:36:06,36,6,Corner,Álex Grimaldo,From Corner
+Spain vs Albania,1,00:36:08,36,8,High regain,Daniel Olmo,From Corner
+Spain vs Albania,1,00:38:23,38,23,Box entry (pass),Álex Grimaldo,From Throw In
+Spain vs Albania,1,00:40:08,40,8,High regain,Mikel Merino,From Throw In
+Spain vs Albania,1,00:40:15,40,15,Box entry (pass),Álex Grimaldo,From Throw In
+Spain vs Albania,1,00:40:17,40,17,Shot,Ferrán Torres,From Throw In
+Spain vs Albania,1,00:42:16,42,16,High regain,Ferrán Torres,Regular Play
+Spain vs Albania,1,00:42:17,42,17,Box entry (pass),Ferrán Torres,Regular Play
+Spain vs Albania,1,00:42:52,42,52,Corner,Álex Grimaldo,From Corner
+Spain vs Albania,1,00:42:57,42,57,High regain,Álex Grimaldo,From Corner
+Spain vs Albania,1,00:43:37,43,37,Shot,Mikel Merino,From Corner
+Spain vs Albania,1,00:45:24,45,24,Shot,Joselu,From Keeper
+Spain vs Albania,2,00:01:30,46,30,Box entry (pass),Álex Grimaldo,From Kick Off
+Spain vs Albania,2,00:01:31,46,31,Shot,Joselu,From Kick Off
+Spain vs Albania,2,00:02:22,47,22,High regain,Joselu,From Counter
+Spain vs Albania,2,00:02:25,47,25,Box entry (pass),Mikel Merino,From Counter
+Spain vs Albania,2,00:02:27,47,27,Shot,Mikel Oyarzabal,From Counter
+Spain vs Albania,2,00:04:37,49,37,Shot,Daniel Olmo,Regular Play
+Spain vs Albania,2,00:12:37,57,37,Box entry (pass),Mikel Oyarzabal,Regular Play
+Spain vs Albania,2,00:13:58,58,58,Box entry (pass),Mikel Oyarzabal,From Throw In
+Spain vs Albania,2,00:14:03,59,3,High regain,Daniel Olmo,From Throw In
+Spain vs Albania,2,00:14:31,59,31,High regain,Ferrán Torres,Regular Play
+Spain vs Albania,2,00:25:10,70,10,Corner,Álex Grimaldo,From Corner
+Spain vs Albania,2,00:25:15,70,15,High regain,Mikel Merino,From Corner
+Spain vs Albania,2,00:27:13,72,13,High regain,Lamine Yamal,From Throw In
+Spain vs Albania,2,00:27:15,72,15,Box entry (pass),Lamine Yamal,From Throw In
+Spain vs Albania,2,00:27:18,72,18,High regain,Fermín López,From Throw In
+Spain vs Albania,2,00:30:37,75,37,Shot,Fermín López,Regular Play
+Spain vs Albania,2,00:30:37,75,37,High regain,Fermín López,Regular Play
+Spain vs Albania,2,00:31:24,76,24,Shot,Fermín López,Regular Play
+Spain vs Albania,2,00:33:37,78,37,Box entry (pass),Álex Grimaldo,Regular Play
+Spain vs Albania,2,00:33:39,78,39,Shot,Daniel Olmo,Regular Play
+Spain vs Albania,2,00:34:19,79,19,Corner,Álex Grimaldo,From Corner
+Spain vs Albania,2,00:34:21,79,21,Shot,Álvaro Morata,From Corner
+Spain vs Croatia,1,00:01:48,1,48,High regain,Nico Williams,From Throw In
+Spain vs Croatia,1,00:04:08,4,8,High regain,Pedri,Regular Play
+Spain vs Croatia,1,00:04:31,4,31,High regain,Rodri,Regular Play
+Spain vs Croatia,1,00:06:23,6,23,Shot,Álvaro Morata,Regular Play
+Spain vs Croatia,1,00:08:36,8,36,High regain,Marc Cucurella,From Throw In
+Spain vs Croatia,1,00:14:12,14,12,Shot,Lamine Yamal,Regular Play
+Spain vs Croatia,1,00:23:40,23,40,High regain,Robin Le Normand,From Free Kick
+Spain vs Croatia,1,00:25:34,25,34,Box entry (pass),Nico Williams,Regular Play
+Spain vs Croatia,1,00:28:08,28,8,Goal,Álvaro Morata,Regular Play
+Spain vs Croatia,1,00:31:14,31,14,High regain,Lamine Yamal,From Throw In
+Spain vs Croatia,1,00:31:24,31,24,Goal,Fabián Ruiz,From Throw In
+Spain vs Croatia,1,00:35:09,35,9,Corner,Nico Williams,From Corner
+Spain vs Croatia,1,00:35:11,35,11,Shot,Robin Le Normand,From Corner
+Spain vs Croatia,1,00:36:34,36,34,Box entry (pass),Álvaro Morata,From Throw In
+Spain vs Croatia,1,00:42:10,42,10,High regain,Álvaro Morata,Regular Play
+Spain vs Croatia,1,00:42:12,42,12,High regain,Daniel Carvajal,Regular Play
+Spain vs Croatia,1,00:46:47,46,47,Corner,Lamine Yamal,From Corner
+Spain vs Croatia,1,00:46:53,46,53,Box entry (pass),Lamine Yamal,From Corner
+Spain vs Croatia,1,00:46:54,46,54,Goal,Daniel Carvajal,From Corner
+Spain vs Croatia,2,00:02:06,47,6,Box entry (pass),Marc Cucurella,Regular Play
+Spain vs Croatia,2,00:06:42,51,42,High regain,Pedri,Regular Play
+Spain vs Croatia,2,00:06:44,51,44,Box entry (pass),Pedri,Regular Play
+Spain vs Croatia,2,00:06:45,51,45,Shot,Lamine Yamal,Regular Play
+Spain vs Croatia,2,00:06:50,51,50,High regain,Marc Cucurella,Regular Play
+Spain vs Croatia,2,00:07:55,52,55,Corner,Nico Williams,From Corner
+Spain vs Croatia,2,00:08:01,53,1,Shot,Álvaro Morata,From Corner
+Spain vs Croatia,2,00:12:18,57,18,Shot,Lamine Yamal,From Free Kick
+Spain vs Croatia,2,00:23:43,68,43,High regain,Marc Cucurella,From Throw In
+Spain vs Croatia,2,00:28:13,73,13,Shot,Daniel Olmo,Regular Play
+Spain vs Croatia,2,00:42:53,87,53,Shot,Ferrán Torres,Regular Play
+Spain vs Croatia,2,00:43:33,88,33,Corner,Ferrán Torres,From Corner
+Spain vs Croatia,2,00:47:35,92,35,Box entry (pass),Daniel Olmo,From Goal Kick
+Spain vs Croatia,2,00:47:57,92,57,Corner,Ferrán Torres,From Corner
+Spain vs Croatia,2,00:48:07,93,7,Box entry (pass),Fabián Ruiz,From Corner
+Spain vs England,1,00:04:15,4,15,High regain,Nico Williams,Regular Play
+Spain vs England,1,00:04:47,4,47,Corner,Nico Williams,From Corner
+Spain vs England,1,00:07:07,7,7,Box entry (pass),Nico Williams,Regular Play
+Spain vs England,1,00:11:13,11,13,Shot,Nico Williams,From Free Kick
+Spain vs England,1,00:12:18,12,18,Corner,Nico Williams,From Corner
+Spain vs England,1,00:12:21,12,21,Shot,Robin Le Normand,From Corner
+Spain vs England,1,00:22:54,22,54,High regain,Daniel Olmo,Regular Play
+Spain vs England,1,00:23:11,23,11,Corner,Lamine Yamal,From Corner
+Spain vs England,1,00:27:27,27,27,Shot,Fabián Ruiz,From Throw In
+Spain vs England,1,00:34:05,34,5,Corner,Lamine Yamal,From Corner
+Spain vs England,1,00:34:53,34,53,Corner,Nico Williams,From Corner
+Spain vs England,1,00:34:58,34,58,Shot,Daniel Olmo,From Corner
+Spain vs England,1,00:37:18,37,18,Box entry (pass),Nico Williams,Regular Play
+Spain vs England,1,00:37:25,37,25,High regain,Daniel Carvajal,Regular Play
+Spain vs England,1,00:42:19,42,19,Box entry (pass),Aymeric Laporte,Regular Play
+Spain vs England,1,00:42:24,42,24,Shot,Álvaro Morata,Regular Play
+Spain vs England,1,00:42:24,42,24,High regain,Álvaro Morata,Regular Play
+Spain vs England,1,00:42:59,42,59,Corner,Nico Williams,From Corner
+Spain vs England,2,00:01:08,46,8,Box entry (pass),Lamine Yamal,From Throw In
+Spain vs England,2,00:01:09,46,9,Goal,Nico Williams,From Throw In
+Spain vs England,2,00:03:17,48,17,Box entry (pass),Nico Williams,Regular Play
+Spain vs England,2,00:03:19,48,19,Shot,Daniel Olmo,Regular Play
+Spain vs England,2,00:09:15,54,15,Shot,Álvaro Morata,From Free Kick
+Spain vs England,2,00:09:55,54,55,Box entry (pass),Lamine Yamal,From Throw In
+Spain vs England,2,00:09:58,54,58,Shot,Álvaro Morata,From Throw In
+Spain vs England,2,00:10:02,55,2,High regain,Daniel Carvajal,From Throw In
+Spain vs England,2,00:10:20,55,20,High regain,Fabián Ruiz,From Throw In
+Spain vs England,2,00:10:23,55,23,Shot,Nico Williams,From Throw In
+Spain vs England,2,00:20:45,65,45,Shot,Lamine Yamal,From Counter
+Spain vs England,2,00:21:25,66,25,Corner,Nico Williams,From Corner
+Spain vs England,2,00:21:27,66,27,Shot,Aymeric Laporte,From Corner
+Spain vs England,2,00:23:04,68,4,High regain,Fabián Ruiz,Regular Play
+Spain vs England,2,00:23:43,68,43,Corner,Lamine Yamal,From Corner
+Spain vs England,2,00:23:47,68,47,High regain,Daniel Olmo,From Corner
+Spain vs England,2,00:23:53,68,53,High regain,Nico Williams,From Corner
+Spain vs England,2,00:24:07,69,7,Shot,Fabián Ruiz,From Corner
+Spain vs England,2,00:26:48,71,48,Box entry (pass),Martín Zubimendi,From Counter
+Spain vs England,2,00:26:50,71,50,Shot,Mikel Oyarzabal,From Counter
+Spain vs England,2,00:33:17,78,17,Corner,Nico Williams,From Corner
+Spain vs England,2,00:33:20,78,20,High regain,Fabián Ruiz,From Corner
+Spain vs England,2,00:34:22,79,22,Box entry (pass),Daniel Carvajal,From Throw In
+Spain vs England,2,00:36:11,81,11,Box entry (pass),Nico Williams,Regular Play
+Spain vs England,2,00:36:13,81,13,Shot,Lamine Yamal,Regular Play
+Spain vs England,2,00:38:54,83,54,High regain,Daniel Carvajal,Regular Play
+Spain vs England,2,00:39:03,84,3,High regain,Nico Williams,Regular Play
+Spain vs England,2,00:39:33,84,33,Corner,Lamine Yamal,From Corner
+Spain vs England,2,00:39:52,84,52,Box entry (pass),Daniel Olmo,From Corner
+Spain vs England,2,00:40:55,85,55,Box entry (pass),Marc Cucurella,From Throw In
+Spain vs England,2,00:40:56,85,56,Goal,Mikel Oyarzabal,From Throw In
+Spain vs France,1,00:04:41,4,41,High regain,Nico Williams,Regular Play
+Spain vs France,1,00:04:43,4,43,Box entry (pass),Nico Williams,Regular Play
+Spain vs France,1,00:04:49,4,49,Shot,Fabián Ruiz,Regular Play
+Spain vs France,1,00:10:21,10,21,High regain,Rodri,Regular Play
+Spain vs France,1,00:10:46,10,46,Box entry (pass),Lamine Yamal,Regular Play
+Spain vs France,1,00:10:49,10,49,High regain,Daniel Olmo,Regular Play
+Spain vs France,1,00:11:46,11,46,Box entry (pass),Nico Williams,Regular Play
+Spain vs France,1,00:20:12,20,12,High regain,Lamine Yamal,From Goal Kick
+Spain vs France,1,00:20:15,20,15,Goal,Lamine Yamal,From Goal Kick
+Spain vs France,1,00:22:39,22,39,Corner,Nico Williams,From Corner
+Spain vs France,1,00:23:18,23,18,High regain,Lamine Yamal,Regular Play
+Spain vs France,1,00:23:26,23,26,High regain,Rodri,Regular Play
+Spain vs France,1,00:24:21,24,21,High regain,Daniel Olmo,From Throw In
+Spain vs France,1,00:24:23,24,23,Goal,Daniel Olmo,From Throw In
+Spain vs France,1,00:29:56,29,56,High regain,Daniel Olmo,From Goal Kick
+Spain vs France,1,00:30:46,30,46,High regain,Nico Williams,From Goal Kick
+Spain vs France,1,00:35:35,35,35,Shot,Fabián Ruiz,From Free Kick
+Spain vs France,1,00:36:26,36,26,Corner,Nico Williams,From Corner
+Spain vs France,1,00:39:59,39,59,Shot,Lamine Yamal,Regular Play
+Spain vs France,1,00:40:41,40,41,Corner,Nico Williams,From Corner
+Spain vs France,1,00:44:44,44,44,High regain,Nico Williams,From Throw In
+Spain vs France,2,00:03:46,48,46,High regain,Nico Williams,From Throw In
+Spain vs France,2,00:18:04,63,4,High regain,Nico Williams,Regular Play
+Spain vs France,2,00:24:28,69,28,Box entry (pass),Nico Williams,From Throw In
+Spain vs France,2,00:32:27,77,27,High regain,Mikel Merino,From Goal Kick
+Spain vs France,2,00:35:56,80,56,Shot,Lamine Yamal,Regular Play
+Spain vs France,2,00:44:16,89,16,High regain,Nico Williams,From Free Kick
+Spain vs France,2,00:44:18,89,18,High regain,Rodri,From Free Kick
+Spain vs France,2,00:44:27,89,27,Box entry (pass),Mikel Oyarzabal,From Free Kick
+Spain vs France,2,00:45:01,90,1,Corner,Nico Williams,From Corner
+Spain vs France,2,00:45:04,90,4,High regain,Fabián Ruiz,From Corner
+Spain vs France,2,00:50:19,95,19,High regain,Mikel Merino,From Goal Kick
+Spain vs Georgia,1,00:00:50,0,50,High regain,Álvaro Morata,From Kick Off
+Spain vs Georgia,1,00:01:47,1,47,High regain,Fabián Ruiz,Regular Play
+Spain vs Georgia,1,00:01:49,1,49,Shot,Fabián Ruiz,Regular Play
+Spain vs Georgia,1,00:04:03,4,3,Box entry (pass),Daniel Carvajal,Regular Play
+Spain vs Georgia,1,00:04:04,4,4,Shot,Pedri,Regular Play
+Spain vs Georgia,1,00:05:06,5,6,High regain,Daniel Carvajal,Regular Play
+Spain vs Georgia,1,00:05:17,5,17,Box entry (pass),Fabián Ruiz,Regular Play
+Spain vs Georgia,1,00:05:21,5,21,Shot,Fabián Ruiz,Regular Play
+Spain vs Georgia,1,00:05:45,5,45,High regain,Marc Cucurella,Regular Play
+Spain vs Georgia,1,00:07:39,7,39,Box entry (pass),Nico Williams,From Free Kick
+Spain vs Georgia,1,00:08:07,8,7,Corner,Nico Williams,From Corner
+Spain vs Georgia,1,00:08:41,8,41,High regain,Lamine Yamal,From Corner
+Spain vs Georgia,1,00:09:31,9,31,Box entry (pass),Marc Cucurella,From Corner
+Spain vs Georgia,1,00:09:56,9,56,Corner,Nico Williams,From Corner
+Spain vs Georgia,1,00:09:57,9,57,Shot,Daniel Carvajal,From Corner
+Spain vs Georgia,1,00:10:11,10,11,Corner,Nico Williams,From Corner
+Spain vs Georgia,1,00:10:44,10,44,Box entry (pass),Fabián Ruiz,From Throw In
+Spain vs Georgia,1,00:10:49,10,49,High regain,Fabián Ruiz,From Throw In
+Spain vs Georgia,1,00:10:55,10,55,Box entry (pass),Lamine Yamal,From Throw In
+Spain vs Georgia,1,00:10:59,10,59,Shot,Nico Williams,From Throw In
+Spain vs Georgia,1,00:11:12,11,12,Corner,Lamine Yamal,From Corner
+Spain vs Georgia,1,00:12:38,12,38,Box entry (pass),Lamine Yamal,From Corner
+Spain vs Georgia,1,00:12:40,12,40,Shot,Fabián Ruiz,From Corner
+Spain vs Georgia,1,00:12:41,12,41,High regain,Rodri,From Corner
+Spain vs Georgia,1,00:12:46,12,46,Box entry (pass),Marc Cucurella,From Corner
+Spain vs Georgia,1,00:12:48,12,48,Shot,Nico Williams,From Corner
+Spain vs Georgia,1,00:13:12,13,12,Corner,Nico Williams,From Corner
+Spain vs Georgia,1,00:15:39,15,39,Corner,Lamine Yamal,From Corner
+Spain vs Georgia,1,00:15:41,15,41,Shot,Aymeric Laporte,From Corner
+Spain vs Georgia,1,00:19:30,19,30,Box entry (pass),Nico Williams,Regular Play
+Spain vs Georgia,1,00:19:36,19,36,High regain,Daniel Carvajal,Regular Play
+Spain vs Georgia,1,00:20:22,20,22,High regain,Pedri,Regular Play
+Spain vs Georgia,1,00:21:14,21,14,Box entry (pass),Rodri,Regular Play
+Spain vs Georgia,1,00:21:16,21,16,Shot,Fabián Ruiz,Regular Play
+Spain vs Georgia,1,00:22:45,22,45,Box entry (pass),Fabián Ruiz,Regular Play
+Spain vs Georgia,1,00:24:22,24,22,High regain,Lamine Yamal,Regular Play
+Spain vs Georgia,1,00:24:26,24,26,High regain,Lamine Yamal,Regular Play
+Spain vs Georgia,1,00:24:39,24,39,High regain,Pedri,From Throw In
+Spain vs Georgia,1,00:25:15,25,15,Shot,Rodri,From Throw In
+Spain vs Georgia,1,00:26:36,26,36,High regain,Pedri,Regular Play
+Spain vs Georgia,1,00:26:37,26,37,Shot,Pedri,Regular Play
+Spain vs Georgia,1,00:27:28,27,28,High regain,Fabián Ruiz,Regular Play
+Spain vs Georgia,1,00:28:38,28,38,Shot,Aymeric Laporte,From Throw In
+Spain vs Georgia,1,00:30:19,30,19,Shot,Lamine Yamal,Regular Play
+Spain vs Georgia,1,00:30:21,30,21,High regain,Daniel Carvajal,Regular Play
+Spain vs Georgia,1,00:30:36,30,36,Box entry (pass),Aymeric Laporte,Regular Play
+Spain vs Georgia,1,00:32:53,32,53,High regain,Pedri,Regular Play
+Spain vs Georgia,1,00:34:36,34,36,Shot,Marc Cucurella,From Goal Kick
+Spain vs Georgia,1,00:35:21,35,21,Corner,Lamine Yamal,From Corner
+Spain vs Georgia,1,00:37:44,37,44,Box entry (pass),Pedri,Regular Play
+Spain vs Georgia,1,00:37:48,37,48,Shot,Nico Williams,Regular Play
+Spain vs Georgia,1,00:38:04,38,4,Box entry (pass),Rodri,Regular Play
+Spain vs Georgia,1,00:38:10,38,10,Goal,Rodri,Regular Play
+Spain vs Georgia,1,00:42:44,42,44,High regain,Marc Cucurella,Regular Play
+Spain vs Georgia,1,00:46:07,46,7,Shot,Lamine Yamal,From Throw In
+Spain vs Georgia,1,00:46:08,46,8,High regain,Robin Le Normand,From Throw In
+Spain vs Georgia,1,00:46:22,46,22,High regain,Nico Williams,From Throw In
+Spain vs Georgia,1,00:46:43,46,43,Box entry (pass),Lamine Yamal,From Throw In
+Spain vs Georgia,1,00:47:08,47,8,Corner,Lamine Yamal,From Corner
+Spain vs Georgia,1,00:47:29,47,29,Corner,Nico Williams,From Corner
+Spain vs Georgia,2,00:00:21,45,21,Shot,Fabián Ruiz,From Counter
+Spain vs Georgia,2,00:05:25,50,25,Shot,Lamine Yamal,From Free Kick
+Spain vs Georgia,2,00:05:29,50,29,High regain,Álvaro Morata,From Free Kick
+Spain vs Georgia,2,00:05:38,50,38,Box entry (pass),Lamine Yamal,From Free Kick
+Spain vs Georgia,2,00:05:40,50,40,Goal,Fabián Ruiz,From Free Kick
+Spain vs Georgia,2,00:07:09,52,9,High regain,Daniel Olmo,Regular Play
+Spain vs Georgia,2,00:07:13,52,13,Shot,Lamine Yamal,Regular Play
+Spain vs Georgia,2,00:08:57,53,57,High regain,Fabián Ruiz,Regular Play
+Spain vs Georgia,2,00:09:38,54,38,Shot,Álvaro Morata,Regular Play
+Spain vs Georgia,2,00:13:57,58,57,Corner,Lamine Yamal,From Corner
+Spain vs Georgia,2,00:14:03,59,3,Shot,Daniel Olmo,From Corner
+Spain vs Georgia,2,00:15:53,60,53,Shot,Daniel Olmo,Regular Play
+Spain vs Georgia,2,00:17:18,62,18,High regain,Lamine Yamal,Regular Play
+Spain vs Georgia,2,00:17:19,62,19,Shot,Lamine Yamal,Regular Play
+Spain vs Georgia,2,00:19:41,64,41,Corner,Nico Williams,From Corner
+Spain vs Georgia,2,00:20:06,65,6,Corner,Nico Williams,From Corner
+Spain vs Georgia,2,00:24:09,69,9,Shot,Fabián Ruiz,From Goal Kick
+Spain vs Georgia,2,00:28:08,73,8,Box entry (pass),Lamine Yamal,Regular Play
+Spain vs Georgia,2,00:29:40,74,40,Goal,Nico Williams,From Counter
+Spain vs Georgia,2,00:31:59,76,59,Shot,Daniel Olmo,Regular Play
+Spain vs Georgia,2,00:34:56,79,56,Box entry (pass),Daniel Olmo,From Keeper
+Spain vs Georgia,2,00:34:58,79,58,Shot,Lamine Yamal,From Keeper
+Spain vs Georgia,2,00:35:59,80,59,Corner,Álex Grimaldo,From Corner
+Spain vs Georgia,2,00:36:54,81,54,Box entry (pass),Daniel Olmo,Regular Play
+Spain vs Georgia,2,00:36:57,81,57,Shot,Lamine Yamal,Regular Play
+Spain vs Georgia,2,00:37:35,82,35,Goal,Daniel Olmo,Regular Play
+Spain vs Georgia,2,00:44:17,89,17,Shot,Nico Williams,From Keeper
+Spain vs Georgia,2,00:44:19,89,19,High regain,Lamine Yamal,From Keeper
+Spain vs Georgia,2,00:44:38,89,38,Shot,Daniel Olmo,From Keeper
+Spain vs Georgia,2,00:46:14,91,14,Box entry (pass),Mikel Merino,Regular Play
+Spain vs Georgia,2,00:46:20,91,20,Shot,Daniel Olmo,Regular Play
+Spain vs Georgia,2,00:46:25,91,25,High regain,Lamine Yamal,Regular Play
+Spain vs Georgia,2,00:47:15,92,15,High regain,Álex Grimaldo,From Free Kick
+Spain vs Georgia,2,00:47:17,92,17,Box entry (pass),Álex Grimaldo,From Free Kick
+Spain vs Georgia,2,00:47:19,92,19,Shot,Rodri,From Free Kick
+Spain vs Germany,1,00:00:50,0,50,Box entry (pass),Nico Williams,Regular Play
+Spain vs Germany,1,00:00:52,0,52,Shot,Pedri,Regular Play
+Spain vs Germany,1,00:11:45,11,45,Shot,Nico Williams,From Throw In
+Spain vs Germany,1,00:14:05,14,5,Shot,Lamine Yamal,From Free Kick
+Spain vs Germany,1,00:15:02,15,2,Shot,Álvaro Morata,Regular Play
+Spain vs Germany,1,00:15:22,15,22,High regain,Lamine Yamal,Regular Play
+Spain vs Germany,1,00:15:26,15,26,High regain,Lamine Yamal,Regular Play
+Spain vs Germany,1,00:16:08,16,8,Shot,Fabián Ruiz,Regular Play
+Spain vs Germany,1,00:21:49,21,49,High regain,Rodri,Regular Play
+Spain vs Germany,1,00:22:09,22,9,Shot,Aymeric Laporte,Regular Play
+Spain vs Germany,1,00:27:03,27,3,High regain,Daniel Carvajal,Regular Play
+Spain vs Germany,1,00:28:06,28,6,High regain,Daniel Olmo,From Free Kick
+Spain vs Germany,1,00:38:47,38,47,Shot,Daniel Olmo,From Throw In
+Spain vs Germany,1,00:38:50,38,50,High regain,Álvaro Morata,From Throw In
+Spain vs Germany,1,00:44:15,44,15,Box entry (pass),Álvaro Morata,Regular Play
+Spain vs Germany,1,00:44:51,44,51,Shot,Lamine Yamal,Regular Play
+Spain vs Germany,1,00:46:09,46,9,High regain,Rodri,Regular Play
+Spain vs Germany,2,00:01:40,46,40,Box entry (pass),Daniel Olmo,From Free Kick
+Spain vs Germany,2,00:01:48,46,48,Shot,Álvaro Morata,From Free Kick
+Spain vs Germany,2,00:06:00,51,0,Goal,Daniel Olmo,From Free Kick
+Spain vs Germany,2,00:09:49,54,49,High regain,Nico Williams,Regular Play
+Spain vs Germany,2,00:09:53,54,53,Shot,Nico Williams,Regular Play
+Spain vs Germany,2,00:09:53,54,53,High regain,Nico Williams,Regular Play
+Spain vs Germany,2,00:12:49,57,49,High regain,Rodri,Regular Play
+Spain vs Germany,2,00:12:50,57,50,High regain,Fabián Ruiz,Regular Play
+Spain vs Germany,2,00:13:12,58,12,High regain,Daniel Olmo,Regular Play
+Spain vs Germany,2,00:22:20,67,20,Box entry (pass),Fabián Ruiz,From Free Kick
+Spain vs Germany,2,00:28:41,73,41,Box entry (pass),Ferrán Torres,From Free Kick
+Spain vs Germany,2,00:35:00,80,0,Box entry (pass),Fabián Ruiz,From Throw In
+Spain vs Germany,2,00:35:05,80,5,High regain,Mikel Merino,From Throw In
+Spain vs Germany,2,00:38:31,83,31,Shot,Fabián Ruiz,From Free Kick
+Spain vs Germany,2,00:46:27,91,27,High regain,Mikel Merino,Regular Play
+Spain vs Germany,3,00:00:23,90,23,Box entry (pass),Daniel Olmo,From Kick Off
+Spain vs Germany,3,00:00:24,90,24,Shot,Ferrán Torres,From Kick Off
+Spain vs Germany,3,00:04:31,94,31,Shot,Mikel Oyarzabal,From Counter
+Spain vs Germany,3,00:05:45,95,45,Box entry (pass),Ferrán Torres,From Free Kick
+Spain vs Germany,3,00:05:52,95,52,High regain,Fabián Ruiz,From Free Kick
+Spain vs Germany,3,00:06:08,96,8,Shot,Daniel Olmo,From Free Kick
+Spain vs Germany,3,00:06:10,96,10,High regain,Rodri,From Free Kick
+Spain vs Germany,3,00:13:07,103,7,Shot,Mikel Oyarzabal,From Throw In
+Spain vs Germany,4,00:02:46,107,46,Corner,Ferrán Torres,From Corner
+Spain vs Germany,4,00:06:50,111,50,Shot,Mikel Oyarzabal,Regular Play
+Spain vs Germany,4,00:09:33,114,33,High regain,Daniel Olmo,Regular Play
+Spain vs Germany,4,00:13:39,118,39,High regain,Mikel Oyarzabal,From Throw In
+Spain vs Germany,4,00:13:44,118,44,High regain,Daniel Carvajal,From Throw In
+Spain vs Germany,4,00:13:52,118,52,Box entry (pass),Daniel Olmo,From Throw In
+Spain vs Germany,4,00:13:53,118,53,Goal,Mikel Merino,From Throw In
+Spain vs Germany,4,00:16:55,121,55,Shot,Ferrán Torres,From Counter
+Spain vs Italy,1,00:01:24,1,24,Box entry (pass),Nico Williams,From Goal Kick
+Spain vs Italy,1,00:01:25,1,25,Shot,Pedri,From Goal Kick
+Spain vs Italy,1,00:01:50,1,50,Corner,Nico Williams,From Corner
+Spain vs Italy,1,00:02:04,2,4,High regain,Pedri,Regular Play
+Spain vs Italy,1,00:03:02,3,2,High regain,Marc Cucurella,From Free Kick
+Spain vs Italy,1,00:09:43,9,43,Box entry (pass),Álvaro Morata,From Free Kick
+Spain vs Italy,1,00:09:44,9,44,Shot,Nico Williams,From Free Kick
+Spain vs Italy,1,00:14:03,14,3,Shot,Álvaro Morata,Regular Play
+Spain vs Italy,1,00:14:06,14,6,High regain,Pedri,Regular Play
+Spain vs Italy,1,00:14:59,14,59,High regain,Rodri,Other
+Spain vs Italy,1,00:23:24,23,24,High regain,Álvaro Morata,From Throw In
+Spain vs Italy,1,00:23:27,23,27,Shot,Álvaro Morata,From Throw In
+Spain vs Italy,1,00:24:12,24,12,High regain,Rodri,From Throw In
+Spain vs Italy,1,00:24:27,24,27,Shot,Fabián Ruiz,Regular Play
+Spain vs Italy,1,00:24:57,24,57,Corner,Lamine Yamal,From Corner
+Spain vs Italy,1,00:26:21,26,21,Shot,Rodri,From Goal Kick
+Spain vs Italy,1,00:27:32,27,32,High regain,Lamine Yamal,Regular Play
+Spain vs Italy,1,00:27:37,27,37,Box entry (pass),Fabián Ruiz,Regular Play
+Spain vs Italy,1,00:27:41,27,41,Shot,Rodri,Regular Play
+Spain vs Italy,1,00:27:45,27,45,High regain,Fabián Ruiz,Regular Play
+Spain vs Italy,1,00:30:01,30,1,High regain,Álvaro Morata,Regular Play
+Spain vs Italy,1,00:36:31,36,31,Shot,Fabián Ruiz,From Free Kick
+Spain vs Italy,1,00:40:56,40,56,Shot,Fabián Ruiz,From Throw In
+Spain vs Italy,1,00:40:56,40,56,High regain,Fabián Ruiz,From Throw In
+Spain vs Italy,1,00:44:36,44,36,High regain,Lamine Yamal,From Throw In
+Spain vs Italy,1,00:44:39,44,39,Box entry (pass),Lamine Yamal,From Throw In
+Spain vs Italy,2,00:03:26,48,26,High regain,Rodri,Regular Play
+Spain vs Italy,2,00:04:08,49,8,Corner,Lamine Yamal,From Corner
+Spain vs Italy,2,00:04:34,49,34,High regain,Fabián Ruiz,Regular Play
+Spain vs Italy,2,00:05:24,50,24,High regain,Pedri,From Throw In
+Spain vs Italy,2,00:06:23,51,23,Box entry (pass),Nico Williams,From Keeper
+Spain vs Italy,2,00:06:25,51,25,Shot,Pedri,From Keeper
+Spain vs Italy,2,00:06:59,51,59,High regain,Fabián Ruiz,Regular Play
+Spain vs Italy,2,00:07:04,52,4,High regain,Nico Williams,Regular Play
+Spain vs Italy,2,00:07:32,52,32,High regain,Fabián Ruiz,Regular Play
+Spain vs Italy,2,00:07:44,52,44,Shot,Pedri,Regular Play
+Spain vs Italy,2,00:08:38,53,38,High regain,Fabián Ruiz,Regular Play
+Spain vs Italy,2,00:08:47,53,47,Box entry (pass),Lamine Yamal,Regular Play
+Spain vs Italy,2,00:09:02,54,2,Box entry (pass),Nico Williams,Regular Play
+Spain vs Italy,2,00:09:03,54,3,Shot,Álvaro Morata,Regular Play
+Spain vs Italy,2,00:12:16,57,16,Shot,Álvaro Morata,From Throw In
+Spain vs Italy,2,00:12:55,57,55,Corner,Nico Williams,From Corner
+Spain vs Italy,2,00:12:57,57,57,Shot,Robin Le Normand,From Corner
+Spain vs Italy,2,00:14:41,59,41,Shot,Lamine Yamal,From Free Kick
+Spain vs Italy,2,00:15:52,60,52,High regain,Pedri,From Free Kick
+Spain vs Italy,2,00:24:58,69,58,Shot,Nico Williams,Regular Play
+Spain vs Italy,2,00:30:57,75,57,High regain,Nico Williams,Regular Play
+Spain vs Italy,2,00:33:52,78,52,High regain,Ferrán Torres,From Free Kick
+Spain vs Italy,2,00:35:10,80,10,Box entry (pass),Álex Baena,Regular Play
+Spain vs Italy,2,00:35:13,80,13,Shot,Ayoze Pérez,Regular Play
+Spain vs Italy,2,00:35:37,80,37,Corner,Álex Baena,From Corner
+Spain vs Italy,2,00:35:40,80,40,Box entry (pass),Ferrán Torres,From Corner
+Spain vs Italy,2,00:35:41,80,41,Shot,Aymeric Laporte,From Corner
+Spain vs Italy,2,00:45:33,90,33,Box entry (pass),Álex Baena,From Goal Kick
+Spain vs Italy,2,00:45:50,90,50,Shot,Ayoze Pérez,From Goal Kick
+Spain vs Italy,2,00:46:41,91,41,Shot,Ayoze Pérez,From Free Kick

@@ -1,0 +1,50 @@
+match,period,clip_start,minute,second,category,player,play_pattern_name,start_s,end_s
+Spain vs England,1,00:04:15,4,15,High regain,Nico Williams,Regular Play,247,261
+Spain vs England,1,00:04:47,4,47,Corner,Nico Williams,From Corner,279,293
+Spain vs England,1,00:07:07,7,7,Box entry (pass),Nico Williams,Regular Play,419,433
+Spain vs England,1,00:11:13,11,13,Shot,Nico Williams,From Free Kick,665,679
+Spain vs England,1,00:12:18,12,18,Corner,Nico Williams,From Corner,730,744
+Spain vs England,1,00:12:21,12,21,Shot,Robin Le Normand,From Corner,733,747
+Spain vs England,1,00:22:54,22,54,High regain,Daniel Olmo,Regular Play,1366,1380
+Spain vs England,1,00:23:11,23,11,Corner,Lamine Yamal,From Corner,1383,1397
+Spain vs England,1,00:27:27,27,27,Shot,Fabián Ruiz,From Throw In,1639,1653
+Spain vs England,1,00:34:05,34,5,Corner,Lamine Yamal,From Corner,2037,2051
+Spain vs England,1,00:34:53,34,53,Corner,Nico Williams,From Corner,2085,2099
+Spain vs England,1,00:34:58,34,58,Shot,Daniel Olmo,From Corner,2090,2104
+Spain vs England,1,00:37:18,37,18,Box entry (pass),Nico Williams,Regular Play,2230,2244
+Spain vs England,1,00:37:25,37,25,High regain,Daniel Carvajal,Regular Play,2237,2251
+Spain vs England,1,00:42:19,42,19,Box entry (pass),Aymeric Laporte,Regular Play,2531,2545
+Spain vs England,1,00:42:24,42,24,Shot,Álvaro Morata,Regular Play,2536,2550
+Spain vs England,1,00:42:24,42,24,High regain,Álvaro Morata,Regular Play,2536,2550
+Spain vs England,1,00:42:59,42,59,Corner,Nico Williams,From Corner,2571,2585
+Spain vs England,2,00:01:08,46,8,Box entry (pass),Lamine Yamal,From Throw In,60,74
+Spain vs England,2,00:01:09,46,9,Goal,Nico Williams,From Throw In,61,75
+Spain vs England,2,00:03:17,48,17,Box entry (pass),Nico Williams,Regular Play,189,203
+Spain vs England,2,00:03:19,48,19,Shot,Daniel Olmo,Regular Play,191,205
+Spain vs England,2,00:09:15,54,15,Shot,Álvaro Morata,From Free Kick,547,561
+Spain vs England,2,00:09:55,54,55,Box entry (pass),Lamine Yamal,From Throw In,587,601
+Spain vs England,2,00:09:58,54,58,Shot,Álvaro Morata,From Throw In,590,604
+Spain vs England,2,00:10:02,55,2,High regain,Daniel Carvajal,From Throw In,594,608
+Spain vs England,2,00:10:20,55,20,High regain,Fabián Ruiz,From Throw In,612,626
+Spain vs England,2,00:10:23,55,23,Shot,Nico Williams,From Throw In,615,629
+Spain vs England,2,00:20:45,65,45,Shot,Lamine Yamal,From Counter,1237,1251
+Spain vs England,2,00:21:25,66,25,Corner,Nico Williams,From Corner,1277,1291
+Spain vs England,2,00:21:27,66,27,Shot,Aymeric Laporte,From Corner,1279,1293
+Spain vs England,2,00:23:04,68,4,High regain,Fabián Ruiz,Regular Play,1376,1390
+Spain vs England,2,00:23:43,68,43,Corner,Lamine Yamal,From Corner,1415,1429
+Spain vs England,2,00:23:47,68,47,High regain,Daniel Olmo,From Corner,1419,1433
+Spain vs England,2,00:23:53,68,53,High regain,Nico Williams,From Corner,1425,1439
+Spain vs England,2,00:24:07,69,7,Shot,Fabián Ruiz,From Corner,1439,1453
+Spain vs England,2,00:26:48,71,48,Box entry (pass),Martín Zubimendi,From Counter,1600,1614
+Spain vs England,2,00:26:50,71,50,Shot,Mikel Oyarzabal,From Counter,1602,1616
+Spain vs England,2,00:33:17,78,17,Corner,Nico Williams,From Corner,1989,2003
+Spain vs England,2,00:33:20,78,20,High regain,Fabián Ruiz,From Corner,1992,2006
+Spain vs England,2,00:34:22,79,22,Box entry (pass),Daniel Carvajal,From Throw In,2054,2068
+Spain vs England,2,00:36:11,81,11,Box entry (pass),Nico Williams,Regular Play,2163,2177
+Spain vs England,2,00:36:13,81,13,Shot,Lamine Yamal,Regular Play,2165,2179
+Spain vs England,2,00:38:54,83,54,High regain,Daniel Carvajal,Regular Play,2326,2340
+Spain vs England,2,00:39:03,84,3,High regain,Nico Williams,Regular Play,2335,2349
+Spain vs England,2,00:39:33,84,33,Corner,Lamine Yamal,From Corner,2365,2379
+Spain vs England,2,00:39:52,84,52,Box entry (pass),Daniel Olmo,From Corner,2384,2398
+Spain vs England,2,00:40:55,85,55,Box entry (pass),Marc Cucurella,From Throw In,2447,2461
+Spain vs England,2,00:40:56,85,56,Goal,Mikel Oyarzabal,From Throw In,2448,2462

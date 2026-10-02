@@ -1,0 +1,8 @@
+match,opponent,stage,formation,possession,passes,pass_completion,shots,shots_against,xg,xg_against,goals,goals_against,ppda,field_tilt,progressive_passes,high_recoveries
+Croatia (3-0),Croatia,Group Stage,4231,0.468,490,0.837,11,16,1.567,2.482,3,0,19.727,0.475,29,14
+Italy (1-0),Italy,Group Stage,4231,0.567,624,0.904,20,4,1.534,0.143,1,0,13.929,0.767,37,24
+Albania (1-0),Albania,Group Stage,4231,0.593,630,0.871,16,10,0.952,0.503,1,0,11.759,0.683,38,25
+Georgia (4-1),Georgia,Round of 16,433,0.749,850,0.92,35,4,2.765,0.113,4,1,9.357,0.957,52,32
+Germany (2-1),Germany,Quarter-finals,433,0.481,606,0.845,19,23,1.534,1.629,2,1,18.217,0.462,51,25
+France (2-1),France,Semi-finals,4231,0.581,542,0.873,6,9,0.422,0.851,2,1,22.0,0.517,33,19
+England (2-1),England,Final,4231,0.647,592,0.875,16,9,1.792,0.726,2,1,11.35,0.684,40,15
